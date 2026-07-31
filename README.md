@@ -191,7 +191,7 @@ SOC Analyst
 
 ### Wazuh Dashboard
 
-> *(Add screenshot here)*
+> *()*
 
 ### Security Alerts
 
