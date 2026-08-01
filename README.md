@@ -252,7 +252,7 @@ SOC Analyst
 
 ## 👨‍💻 Author
 
-**Aimen Rahou**
+**Aimen Rahou - Aimen Khelil**
 
 Cybersecurity | SOC Analyst 
 
